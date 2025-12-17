@@ -51,3 +51,20 @@ Full-Stack Developer • Real-World Problem Solver • Open-Source Enthusiast
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
 </p>
+
+## 🧩 Coding Platforms & Problem Solving
+
+I actively practice Data Structures & Algorithms and logical problem solving to strengthen my core programming fundamentals and coding efficiency.
+
+### 💻 Active Platforms
+
+- 🟢 **LeetCode** – DSA practice and algorithmic problem solving  
+  🔗 https://leetcode.com/u/Hari_1910/
+
+- 🟢 **SkillRack** – Consistent problem solving and coding challenges  
+  🔗 https://www.skillrack.com/faces/resume.xhtml?id=439872&key=64b379c1026605d1b1e348feb46d77c628631202
+
+- 🟢 **GeeksforGeeks** – Concept-based DSA learning and practice  
+  🔗 https://www.geeksforgeeks.org/profile/user_d4ba2slzzgi
+
+---
