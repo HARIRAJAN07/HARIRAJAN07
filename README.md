@@ -24,3 +24,30 @@ Full-Stack Developer • Real-World Problem Solver • Open-Source Enthusiast
   📧 <a href="mailto:harirajan10192005@gmail.com">harirajan10192005@gmail.com</a> &nbsp;|&nbsp;
   🎓 <a href="mailto:230213.it@rmkec.ac.in">230213.it@rmkec.ac.in</a>
 </p>
+
+## 🧠 Coding & Technical Skills
+
+### 👨‍💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+</p>
+
+### 🗄️ Databases & Backend Services
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</p>
+
+### 🎨 UI / UX & Design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
+</p>
